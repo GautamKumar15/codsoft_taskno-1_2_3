@@ -1,5 +1,6 @@
 # CODSOFT
 Welcome to my GitHub repository for the CodeSoft Internship focused on Machine Learning! This repository contains the projects and learning progress I completed as part of my internship with CodeSoft, demonstrating skills in data preprocessing, model building, and real-world problem-solving using ML techniques.
+
 Task 01 – Movie Genre Prediction Using Text Classification
 In this task, I developed a machine learning model to predict the genre of a movie based on its plot summary and other textual information. The workflow included text preprocessing, feature extraction using TF-IDF, and model training with classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM).
 
